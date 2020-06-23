@@ -1,0 +1,8 @@
+music player daemon
+===================
+this repository contains mpd version 0.21.10 source code, which does not hang
+on my machines unlike any version that released after it, with include's added
+to allow it to build with gcc and clang 10.
+
+upstream repository is located at https://github.com/MusicPlayerDaemon/MPD. do
+keep in mind that they're not very friendly to dumb nodevs like me.

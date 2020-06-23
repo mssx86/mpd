@@ -1,5 +1,8 @@
 *~
 
+mybuild
+.gitignore
+
 .#*
 .stgit*
 
