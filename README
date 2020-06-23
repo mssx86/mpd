@@ -6,3 +6,9 @@ to allow it to build with gcc and clang 10.
 
 upstream repository is located at https://github.com/MusicPlayerDaemon/MPD. do
 keep in mind that they're not very friendly to dumb nodevs like me.
+
+clang-10 built binaries w/ static boost-1.72.0
+==============================================
+mpd 0.21.10 --> https://github.com/mssx86/mpd/releases/tag/20200623-mpd
+mpc 0.33 -----> https://github.com/mssx86/mpd/releases/tag/20200623-mpc
+ncmpcpp 0.9 --> https://github.com/mssx86/mpd/releases/tag/20200623-ncmpcpp
