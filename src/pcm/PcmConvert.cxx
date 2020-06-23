@@ -22,6 +22,7 @@
 #include "util/ConstBuffer.hxx"
 
 #include <assert.h>
+#include <stdexcept>
 
 void
 pcm_convert_global_init(const ConfigData &config)

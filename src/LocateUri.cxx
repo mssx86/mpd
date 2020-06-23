@@ -24,6 +24,7 @@
 #include "ls.hxx"
 #include "util/UriUtil.hxx"
 #include "util/ASCII.hxx"
+#include <stdexcept>
 
 #ifdef ENABLE_DATABASE
 #include "storage/StorageInterface.hxx"
