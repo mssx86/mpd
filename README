@@ -12,3 +12,7 @@ clang-10 built binaries w/ static boost-1.72.0
 mpd 0.21.10 --> https://github.com/mssx86/mpd/releases/tag/20200623-mpd
 mpc 0.33 -----> https://github.com/mssx86/mpd/releases/tag/20200623-mpc
 ncmpcpp 0.9 --> https://github.com/mssx86/mpd/releases/tag/20200623-ncmpcpp
+
+gcc-10.1.0 built binaries w/ static boost-1.72.0
+================================================
+https://github.com/mssx86/mpd/releases/tag/20200714-all
