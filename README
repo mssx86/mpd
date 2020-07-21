@@ -16,3 +16,7 @@ ncmpcpp 0.9 --> https://github.com/mssx86/mpd/releases/tag/20200623-ncmpcpp
 gcc-10.1.0 built binaries w/ static boost-1.72.0
 ================================================
 https://github.com/mssx86/mpd/releases/tag/20200714-all
+
+gcc-9.3.0 built ncmpcpp-0.9 (20200721) w/ static boost-1.72 + fftw-3.3.8
+========================================================================
+https://github.com/mssx86/mpd/releases/tag/20200721-ncmpcpp
